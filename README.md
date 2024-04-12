@@ -18,6 +18,7 @@ of satellite imagery and CNNs has become an effective solution to solve bushfire
 ## Data
 ### Area of Interest
 We mainly focused on the ”Black Summer” bushfires and selected the most bushfire-affected areas in the south-eastern coast of Australia,. In addition, every red dot in the picture represents a individual bushfire, and sizes can be regarded as the scales of bushfires.
+
 <img width="304" alt="area-of-interest" src="https://github.com/jo-muuuuuu/Bushfire-Research-Using-CNNs/assets/142861960/392dab5c-e80d-41f7-9d2e-f320a721efad">
 
 ### Dataset
